@@ -7,3 +7,5 @@ GIT:
 `git commit -m "insert message specific to commit here"` - create a commit with message 
 
 git push origin branch-name - push the newly added commit to the remote repository "origin"
+
+`git diff` - show uncommitted differences
